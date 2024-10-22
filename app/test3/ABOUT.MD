@@ -1,0 +1,1 @@
+Example where data is  all retrieved in the header with child client component
