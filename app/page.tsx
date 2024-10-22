@@ -34,13 +34,13 @@ export default function Home() {
             <Link href="/test5">Test 5 (Static)- Page server based data retrieved in client component action with param</Link>
           </li>
           <li className="mb-2">
-            <Link href="/test5">Test 6 (On Demand server)- Page server based data retrieved in client component action with param through dynamic paths</Link>
+            <Link href="/test6">Test 6 (On Demand server)- Page server based data retrieved in client component action with param through dynamic paths</Link>
           </li>
           <li className="mb-2">
-            <Link href="/test5">Test 7 (SSG)- Page server based data retrieved in client component action with param through dynamic paths (getStaticParams)</Link>
+            <Link href="/test7">Test 7 (SSG)- Page server based data retrieved in client component action with param through dynamic paths (getStaticParams)</Link>
           </li>
           <li className="mb-2">
-            <Link href="/test5">Test 8 (Static)- Page server based 3 client independent components, Clock refreshes every 5 secs with server time, Timestamp generated on page load, Content generated on build</Link>
+            <Link href="/test8">Test 8 (Static)- Page server based 3 client independent components, Clock refreshes every 5 secs with server time, Timestamp generated on page load, Content generated on build</Link>
           </li>
         </ol>
 
